@@ -1,0 +1,26 @@
+*{
+  background: #3a84c1;
+}
+
+.App {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 20%;
+  color: white;
+}
+
+.App-title {
+  font-size: 50px;
+  color: white;
+}
+
+.Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds {
+  display: inline;
+  margin: 10px;
+  color: white;
+}
+
+.submitButton {
+  color: white;
+  background-color: grey;
+}
