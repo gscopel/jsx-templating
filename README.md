@@ -13,4 +13,5 @@ This app was considered an exercise in understanding the core features of React,
 
 •LifeCycle Methods - events in React components that trigger in cases such as rendering on or off the screen, or during state updates. One example is the `componentDidMount()` lifeCycle hook.
 
+After completing this app I deployed it to Heroku. Check it out here - https://react-final-countdown.herokuapp.com/
 
